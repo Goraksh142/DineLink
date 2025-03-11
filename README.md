@@ -1,11 +1,11 @@
 <h1 align = "center"> DineLink </h1>
 
 ## Live Website
-Check out the Live Website here: [HungryBox](https://hungrybox-frontend.onrender.com/) <br>
-Admin: [HungryBox-Admin](https://hungrybox-admin.onrender.com/)
+Check out the Live Website here: [DineLink](https://DineLink-frontend.onrender.com/) <br>
+Admin: [DineLink-Admin](https://DineLink-admin.onrender.com/)
 
 ## Introduction
-HungryBox is a Tiffin Delivery Service Platform built with the MERN stack (MongoDB, Express.js, React, Node.js) and integrated with Stripe for secure payment processing. This project provides a comprehensive solution for managing tiffin orders, user accounts, and administrative tasks.
+DineLink is a Tiffin Delivery Service Platform built with the MERN stack (MongoDB, Express.js, React, Node.js) and integrated with Stripe for secure payment processing. This project provides a comprehensive solution for managing tiffin orders, user accounts, and administrative tasks.
 
 ## Features
 ### User Features:
@@ -124,4 +124,4 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 5. **Open a Pull Request.**
 
 ## Show some ❤️
-If you like this project, please give it a ⭐ on [Github](https://github.com/Mahak008/HungryBox)
+If you like this project, please give it a ⭐ on [Github](https://github.com/Goraksh142)
