@@ -1,8 +1,8 @@
 <h1 align = "center"> DineLink </h1>
 
 ## Live Website
-Check out the Live Website here: [DineLink](https://DineLink-frontend.onrender.com/) <br>
-Admin: [DineLink-Admin](https://DineLink-admin.onrender.com/)
+Check out the Live Website here: [DineLink](https://hungerBox-frontend.onrender.com/) <br>
+Admin: [DineLink-Admin](https://hungerbox-admin.onrender.com/)
 
 ## Introduction
 DineLink is a Tiffin Delivery Service Platform built with the MERN stack (MongoDB, Express.js, React, Node.js) and integrated with Stripe for secure payment processing. This project provides a comprehensive solution for managing tiffin orders, user accounts, and administrative tasks.
